@@ -1,0 +1,4 @@
+PASS: B22-00332 all nonbosons have an empty M_1 packet with probe1 or 9
+PASS: B16-00499 all nonbosons have an empty M_1 packet with probe1 or 15
+PASS: F4 boson channels and exact four-copy scalar majorant.
+No new modular data, symbols or braid matrices produced.

@@ -1,0 +1,9 @@
+*.aux
+*.log
+!eh_control.log
+!f4_control.log
+!seed_orders.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz

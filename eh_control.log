@@ -1,0 +1,6 @@
+PASS: 220 EH coefficients independently isolated; all two-probe matched channels.
+PASS: every nonunit simple dimension >48; all four nonzero trace bounds <48.
+PASS: probe 3 is a strict noncentral meridian for bosons 5,6,7,8.
+PASS: 44 further fusion coefficients independently isolated; vacuum(1,2,3,4)=17.
+PASS: the full-colour word has nonzero vacuum, using the supplied fusion tensor.
+No symbols, large braid matrices or new modular data were generated.
